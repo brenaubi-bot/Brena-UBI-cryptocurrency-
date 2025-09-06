@@ -1,6 +1,6 @@
 # Brena: UBI Cryptocurrency
 
-📄 [Read the White Paper](./WHITEPAPER.md)
+📄 📄 [Read the White Paper](./Brena_Whitepaper_v5.md)
 
 Brena is a digital currency with Universal Basic Income built into its core.  
 Each person can create one wallet that receives a fair monthly distribution,  
